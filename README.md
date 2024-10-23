@@ -1,5 +1,6 @@
 
-<img src="https://github.com/user-attachments/assets/ba261431-5434-40a4-8e54-acd6f58e6d1e" alt="Logo" width="40" height="40"> <h2>C# EĞİTİM KAMPI PROJELERİ</h2>
+
+<h2> <img src="https://github.com/user-attachments/assets/4e822c32-4b38-4100-b261-95b0c856eaec" alt="Logo" width="40" height="40"> C# EĞİTİM KAMPI PROJELERİ</h2>
 Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ilk 8 projeyi içermektedir.
 
 Aşağıda her projeye dair kendimce belirttiğim detayları bulabilirsiniz:
