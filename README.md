@@ -1,33 +1,84 @@
+<p align="center">
+  <a href="#tr" onclick="document.getElementById('tr').style.display='block';document.getElementById('en').style.display='none';">🇹🇷 Türkçe</a> | 
+  <a href="#en" onclick="document.getElementById('en').style.display='block';document.getElementById('tr').style.display='none';">🇬🇧 English</a>
+</p>
 
+<div id="tr">
 
-<h2> <img src="https://github.com/user-attachments/assets/4e822c32-4b38-4100-b261-95b0c856eaec" alt="Logo" width="40" height="40"> C# EĞİTİM KAMPI PROJELERİ</h2>
-Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ilk 8 projeyi içermektedir.
+# <img src="https://github.com/user-attachments/assets/4e822c32-4b38-4100-b261-95b0c856eaec" alt="Logo" width="40" height="40"> C# EĞİTİM KAMPI PROJELERİ
+
+Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım **ilk 8 projeyi** içermektedir.
 
 Aşağıda her projeye dair kendimce belirttiğim detayları bulabilirsiniz:
 
-<img src="https://github.com/user-attachments/assets/bdbdf967-2c9c-4b25-8fb8-e2311d03b490" alt="Logo" width="20" height="20"> Proje 1: Hello World! (Main Subjects)
-Bu projede, konsol uygulamaları oluşturmayı ve temel yazdırma komutu olan Console.WriteLine() ile konsola "Hello World" yazdırmayı keşfettim ve bir C# programının yapısını kavradım. 
+---
 
-<img src="https://github.com/user-attachments/assets/bdbdf967-2c9c-4b25-8fb8-e2311d03b490" alt="Logo" width="20" height="20"> Proje 2: Değişkenler (Variables)
-Bu projede, sayısal ve metinsel olan değişkenleri tanımlamayı ve kullanmayı öğrendim. Değişken tanımlamayı ve onları kullanmayı öğrendim. 
+### 🖥️ Proje 1: Hello World! (Main Subjects)
+Bu projede, konsol uygulamaları oluşturmayı ve temel yazdırma komutu olan `Console.WriteLine()` ile konsola "Hello World" yazdırmayı keşfettim ve bir C# programının yapısını kavradım.
 
-<img src="https://github.com/user-attachments/assets/bdbdf967-2c9c-4b25-8fb8-e2311d03b490" alt="Logo" width="20" height="20"> Proje 3: Karar Yapıları (MakingDecision)
-Bu proje ile if,else karar yapsının mantığını ve çalışma prensibini kavradım. Çeşitli örnekler yaptım.
+### 📦 Proje 2: Değişkenler (Variables)
+Bu projede, sayısal ve metinsel olan değişkenleri tanımlamayı ve kullanmayı öğrendim.
 
-<img src="https://github.com/user-attachments/assets/bdbdf967-2c9c-4b25-8fb8-e2311d03b490" alt="Logo" width="20" height="20"> Proje 4: Döngüler (Loops)
-Bu projede, for ve while döngüsünün çalışma prensibini öğrendim ve örneklerle uyguladım.
+### 🔀 Proje 3: Karar Yapıları (Making Decision)
+Bu proje ile `if` ve `else` karar yapısının mantığını ve çalışma prensibini kavradım. Çeşitli örnekler yaptım.
 
-<img src="https://github.com/user-attachments/assets/bdbdf967-2c9c-4b25-8fb8-e2311d03b490" alt="Logo" width="20" height="20"> Proje 5: Yıldızlarla Döngüler (LoopsWithStars)
-Bu projede for, while döngülerini çeşitli algoritmalarla kullanabileceğimi öğrendim. Konsola yıldızlardan oluşan çeşitli şekilleri döngüler yardımı ile yazdırdım.
+### 🔄 Proje 4: Döngüler (Loops)
+Bu projede, `for` ve `while` döngüsünün çalışma prensibini öğrendim ve örneklerle uyguladım.
 
-<img src="https://github.com/user-attachments/assets/bdbdf967-2c9c-4b25-8fb8-e2311d03b490" alt="Logo" width="20" height="20"> Proje 6: Diziler (Arrays) 
-Bu projede, dizi kavramını ve onunla çalışmayı öğrendim, birden fazla değere bir diziye atmayı ve daha sonra dizi içerisindeki değerleri döngü mekanizmaları ile kullanabileceğimi öğrendim.
+### ⭐ Proje 5: Yıldızlarla Döngüler (Loops With Stars)
+Bu projede, döngüleri kullanarak konsola yıldızlardan oluşan şekiller yazdırmayı öğrendim.
 
-<img src="https://github.com/user-attachments/assets/bdbdf967-2c9c-4b25-8fb8-e2311d03b490" alt="Logo" width="20" height="20"> Proje 7: Foreach Döngüsü (ForEach)
-Bu projede, yine bir döngü tipi olan foreach döngüsünü daha detaylı inceleyip bu yapıyı bir sınav sistemi simülasyonu oluşturmak için kullandım. Öğrencilerin sınav notlarını alarak ortalamalarını hesapladım ve geçme/kalma durumlarını belirledim.
+### 🗂️ Proje 6: Diziler (Arrays)
+Bu projede, dizi kavramını ve onlarla çalışmayı öğrendim. Birden fazla değeri bir diziye atıp, döngülerle kullanabildim.
 
-<img src="https://github.com/user-attachments/assets/bdbdf967-2c9c-4b25-8fb8-e2311d03b490" alt="Logo" width="20" height="20"> Proje 8: Metotlar (Methods)
-Son projede, Metot'un ne olduğunu ve yazdığımız kodu daha düzenli hale getirebileceğini öğrendim. Parametreli ve parametresiz türlerinin olduğunu öğrendim.
-metotların geri değer döndüren ve döndürmeyen türleri ile çalıştım. Bu projede öğrendiğim kavramlar ile programlama yolduluğumda bir adım daha atmış oldum. 
+### 🔁 Proje 7: Foreach Döngüsü (ForEach)
+Bu projede, `foreach` döngüsünü detaylı inceledim ve bir sınav sistemi simülasyonu oluşturdum. Öğrencilerin notlarını alarak ortalamalarını hesapladım ve geçme/kalma durumlarını belirledim.
 
-Bu projeler ile C# dilinin syntax'ına daha hakim ve ileri düzey uygulamalara daha hazır ve istekli hale geldim!
+### ⚙️ Proje 8: Metotlar (Methods)
+Son projede, metot kavramını ve kodu daha düzenli hale getirmeyi öğrendim. Parametreli ve parametresiz metotları, geri değer döndüren ve döndürmeyen türleri ile çalıştım. Bu proje, programlama yolculuğumda ileri bir adım oldu.
+
+---
+
+Bu projeler sayesinde C# dilinin syntax'ına daha hakim, ileri düzey uygulamalara daha hazır ve istekli hâle geldim! 🚀
+
+</div>
+
+<div id="en" style="display:none;">
+
+# <img src="https://github.com/user-attachments/assets/4e822c32-4b38-4100-b261-95b0c856eaec" alt="Logo" width="40" height="40"> C# TRAINING CAMP PROJECTS
+
+This repo contains the **first 8 projects** I completed during the C# Training Camp led by Murat Yücedağ.
+
+Below, you can find the details I noted for each project:
+
+---
+
+### 🖥️ Project 1: Hello World! (Main Subjects)
+In this project, I explored creating console applications and printing "Hello World" to the console using the basic command `Console.WriteLine()`. I understood the structure of a C# program.
+
+### 📦 Project 2: Variables
+In this project, I learned to define and use numeric and textual variables.
+
+### 🔀 Project 3: Making Decision
+I grasped the logic and operation of `if` and `else` statements and tried various examples.
+
+### 🔄 Project 4: Loops
+I learned how `for` and `while` loops work and applied them through examples.
+
+### ⭐ Project 5: Loops With Stars
+I learned to use loops to print different shapes made of stars on the console.
+
+### 🗂️ Project 6: Arrays
+I learned the concept of arrays and how to work with them. I stored multiple values in an array and used them with loops.
+
+### 🔁 Project 7: ForEach Loop
+I examined the `foreach` loop in detail and used it to simulate an exam system. I calculated students’ averages and determined pass/fail status.
+
+### ⚙️ Project 8: Methods
+In the final project, I learned what methods are and how they make code more organized. I worked with parameterized and non-parameterized methods, and with methods that return values or not. This project was a step forward in my programming journey.
+
+---
+
+Through these projects, I became more familiar with C# syntax and better prepared and motivated for advanced-level applications! 🚀
+
+</div>
